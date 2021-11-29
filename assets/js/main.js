@@ -308,7 +308,7 @@
     });
     // tab slider nav active
     $('.tab-slider-nav').slick({
-        slidesToShow: 3,
+        slidesToShow: 4,
         asNavFor: '.tab-slider-images',
         centerMode: true,
         centerPadding: 0,
